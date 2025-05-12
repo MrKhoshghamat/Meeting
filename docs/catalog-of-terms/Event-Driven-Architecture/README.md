@@ -1,3 +1,0 @@
-# Event Driven Architecture
-
-TODO
